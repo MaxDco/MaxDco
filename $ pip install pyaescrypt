@@ -1,0 +1,9 @@
+  import pyaesCrypt 
+
+  password =imput('#see the password for the file: ')
+
+   encrypt
+   #pyAescrypt.encryptFile('fail.txt', 'fail.txt.aes', password)
+
+   #decrypt
+   pyAescrypt.encryptFile('fail.txt.aes', 'failout.txt', password)
